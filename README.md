@@ -10,10 +10,10 @@
  
 # Installation
 
- Install Rust
- Git clone this repository
- cargo build release
- Write path of executable_file to configuration_file (under the name erand)
+ * Install Rust
+ * Git clone this repository
+ * cargo build release
+ * Write path of executable_file to configuration_file (under the name erand)
 
 # Usage
  
